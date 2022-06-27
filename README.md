@@ -1,3 +1,3 @@
 # bookmanager
 
-`Spring Data JPA` study
+study for `Spring Data JPA`
